@@ -24,6 +24,9 @@ http://localhost:3000/
 ```
 
 
+![how to use](docs/img/wt.gif)
+
+
 # Url WebTask
 
 Verb: **POST**  
